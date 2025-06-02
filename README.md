@@ -73,7 +73,7 @@ Users ask questions like:
 > “What inflation risks does Tesla mention?”  
 > “How is Johnson & Johnson handling supply chain issues?”
 
-📌 _Business Value:_ Context-aware answers in plain English, reducing research time by 90%
+> 📌 _Business Value:_ Context-aware answers in plain English, reducing research time by 90%
 
 ### 2. Boost Research Efficiency with Connected Insights  
 - CO_OCCURS_WITH links reveal hidden relationships between risks, products, and strategies  
