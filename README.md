@@ -6,7 +6,7 @@
 - **Yuwen (April) Yang** — [GitHub](https://github.com/YuwenAprilYang) | [LinkedIn](https://linkedin.com/in/april-yang-yuwen)
 - **Wenjun Song** - [GitHub](https://github.com/Wenjun-Charon) | [LinkedIn](https://www.linkedin.com/in/wenjun-song/)
 - **Selina Bian** - [GitHub](https://github.com/Yingxuan-Selina-Bian) | [LinkedIn](https://www.linkedin.com/in/yingxuan-selina-bian/)
-- **Stephanie Liu** - [GitHub](https://github.com/StephanieLiu818) | [LinkedIn](https://www.linkedin.com/in/stephanie-liu24/)
+- **Xinxin (Stephanie) Liu** - [GitHub](https://github.com/StephanieLiu818) | [LinkedIn](https://www.linkedin.com/in/stephanie-liu24/)
 
 ----
 ## Executive Summary
