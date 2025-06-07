@@ -1,5 +1,6 @@
 # 📈 Finance AI Agent: Your Smart Assistant for Insights on Listing Companies
 **Report:** [Finance AI Agent Report](https://github.com/YuwenAprilYang/FinAgent/blob/c28f90271d3492811c477934d3bcae21109b3553/BAX423_Final_Project.pdf) 
+
 **Tools:** Python, Neo4j, LangChain, OpenAI GPT-4, Streamlit  
 
 ### Collaborators
